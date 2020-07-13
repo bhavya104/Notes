@@ -44,6 +44,6 @@ Then I use coroutines of kotlin to minimize the async code.
 3. Open any project folder in Android Studio, and done! 😃
 
 
-```
-Note: If you face any problem create the issue.
-```
+
+<h1> Note: </h1> If you face any problem create the issue. I will always there to solve the problem.
+
