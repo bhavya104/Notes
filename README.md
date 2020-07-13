@@ -5,6 +5,7 @@ Notes Application 📃📃📃
 This application is made using room database and kotlin coroutines.
 Firstly i used async task but after that i realize that async task is lengthy process.
 Then I use coroutines of kotlin to minimize the async code.
+Here i used Straggered Grid Layout.
 ```
 
 ## Library Used 
@@ -45,5 +46,5 @@ Then I use coroutines of kotlin to minimize the async code.
 
 
 
-<p> <h1> Note: </h1> If you face any problem create the issue. I will always there to solve the problem. </p>
+ Note: If you face any problem create the issue. I will always there to solve the problem.
 
