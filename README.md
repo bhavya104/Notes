@@ -39,7 +39,7 @@ Then I use coroutines of kotlin to minimize the async code.
 
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/bhavya104/QRScanner.git
+       git clone https://github.com/bhavya104/Notes.git
        
 3. Open any project folder in Android Studio, and done! 😃
 
