@@ -32,3 +32,18 @@ Then I use coroutines of kotlin to minimize the async code.
   implementation 'androidx.cardview:cardview:1.0.0'
 
 
+
+
+### How to use 🔌
+1. Press the **Fork** button (top right the page) to save copy of this project on your account.
+
+2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+
+       git clone https://github.com/bhavya104/QRScanner.git
+       
+3. Open any project folder in Android Studio, and done! 😃
+
+
+```
+Note: If you face any problem create the issue.
+```
